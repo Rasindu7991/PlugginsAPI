@@ -1,2 +1,2 @@
 # PlugginsAPI
-API for add plugins for images
+API to add plugins for images
